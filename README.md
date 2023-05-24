@@ -3,6 +3,6 @@
 Personal website portifolio. 
 
 ## Projects: 
-###Web
-* [Conway's Game of Life](lsponzoni.github.io)
+#* Web Technologies:
+* [Conway's Game of Life](conway/index.html) Uses react, javascript
 
